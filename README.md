@@ -6,6 +6,7 @@ There are modules that can be soldered or stacked to the display that offers an 
 
 ## This Library is derived from: 
 https://github.com/mathertel/LiquidCrystal_PCF8574
+by Juergen Schnaiter 
 
 ## This library uses following libraries: 
 https://github.com/stevemarple/SoftWire
