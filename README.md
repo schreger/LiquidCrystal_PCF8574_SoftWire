@@ -12,7 +12,7 @@ by Juergen Schnaiter
 https://github.com/stevemarple/SoftWire
 
 ## Tested with: 
-STM32F103RB, STM32L152RE
+STM32F103RB, STM32L152RE, 16x2 LCD with PCF8574 an Arduino Framework
 
 ## License:
 The SoftWire library is licensed with the GNU Lesser General Public License. See LICENSE.txt for details.
